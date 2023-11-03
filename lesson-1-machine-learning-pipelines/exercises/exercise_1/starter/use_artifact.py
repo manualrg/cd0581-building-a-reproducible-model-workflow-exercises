@@ -18,6 +18,7 @@ def go(args):
 
     # YOUR CODE HERE: get the artifact and store its local path in the variable "artifact_path"
     # HINT: you can get the artifact path by using the "file()" method
+    artifact = run.use_artifact("manualrg/exercise_1/zen_of_python:v1")
 
     artifact_path = artifact.file()
 

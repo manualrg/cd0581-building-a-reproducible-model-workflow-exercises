@@ -1,0 +1,83 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.35",
+    "python": "3.10.9",
+    "heartbeatAt": "2023-11-03T22:13:57.812517",
+    "startedAt": "2023-11-03T22:13:56.718448",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--artifact_name",
+        "exercise_1/zen_of_python:v1"
+    ],
+    "state": "running",
+    "program": "/mnt/c/Users/manua/Documents/repos/udacity/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py",
+    "codePathLocal": "use_artifact.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py",
+    "git": {
+        "remote": "https://github.com/udacity/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": null,
+    "root": "/mnt/c/Users/manua/Documents/repos/udacity/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "LAPTOP-14TPAJ63",
+    "username": "manualrg",
+    "executable": "/home/manualrg/miniconda3/envs/ml-devops/bin/python",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1991.9979999999998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1991.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 250.98248672485352,
+            "used": 5.886009216308594
+        }
+    },
+    "memory": {
+        "total": 7.701652526855469
+    }
+}
